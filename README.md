@@ -1,9 +1,101 @@
-## Hi, I’m Mohammad Ibrahim 👋
+# Hi, I'm Mohammad Ibrahim Pasha 👋
 
-I am a beginner Data Science learner who has recently started my journey in the field of data and analytics. I created this GitHub profile to document my learning progress, share projects, and build a strong portfolio as I continue developing my skills.
+### Mechanical Engineer → Data Analytics
 
-Currently, I am enrolled in a **Data Science course**, where I am gaining practical knowledge in data analysis, visualization, and machine learning concepts. So far, I have completed **Python, NumPy, Pandas, Excel, and Power BI**. Through these tools, I have learned how to work with datasets, clean and transform data, perform exploratory analysis, and create interactive dashboards for better decision-making.
+📊 **Actively seeking Data Analyst roles** | 📍 Hyderabad, India
 
-I am passionate about learning new technologies and improving my problem-solving abilities through hands-on practice and real-world projects. My goal is to become a skilled **Data Analyst and Data Scientist** who can turn raw data into meaningful insights and contribute to data-driven solutions.
+---
 
-I will continue uploading my practice files, mini-projects, and future data science projects here. Thank you for visiting my GitHub profile, and I look forward to connecting with other learners and professionals in the data community.
+## 👨‍💻 About Me
+
+I am a Mechanical Engineer transitioning into **Data Analytics**, with a strong interest in transforming raw data into meaningful business insights.
+
+I have completed a **Data Science with Python program from Teks Academy**, where I developed practical skills in data analysis, data visualization, SQL, Python, and machine learning fundamentals.
+
+My engineering background has strengthened my **problem-solving, analytical thinking, attention to detail, and process-oriented approach**. I now apply these skills to real-world data problems and business decision-making.
+
+### What I Do
+
+* 📊 Analyze and visualize datasets to identify trends and patterns
+* 🧹 Clean, transform, and prepare data for analysis
+* 🔍 Perform Exploratory Data Analysis (EDA)
+* 🗄️ Write SQL queries for data extraction and analysis
+* 📈 Build interactive dashboards using Power BI
+* 🐍 Use Python for data analysis and automation
+* 💡 Translate data into actionable business insights
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Querying
+
+`Python` `SQL` `SQLite`
+
+### Data Analysis & Visualization
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+
+### Data Science
+
+`Machine Learning` `Data Cleaning` `Data Wrangling` `EDA`
+
+### Tools & Platforms
+
+`Jupyter Notebook` `Streamlit` `Git` `GitHub`
+
+### Engineering Tools
+
+`SolidWorks` `AutoCAD` `SAP ERP`
+
+---
+
+## 📊 Featured Projects
+
+### 📊 Sales Data Analysis & Power BI Dashboard
+
+Analyzed sales data to identify sales trends, category performance, and business insights. Cleaned and transformed the dataset using Python and Pandas and created an interactive Power BI dashboard.
+
+**Tools:** `Python` `Pandas` `SQL` `Power BI`
+
+🔗 [View Project](https://github.com/ibrahimpasha9618-coder/sales-data-analysis-powerbi)
+
+---
+
+### 👥 HR Analytics – Attrition & Performance
+
+Analyzed employee data to understand **attrition, salary, performance, and workforce trends**. Performed data cleaning and analysis and developed an interactive Power BI dashboard to identify key factors affecting employee attrition.
+
+**Tools:** `Python` `Pandas` `Power BI`
+
+🔗 [View Project](https://github.com/ibrahimpasha9618-coder/hr-analytics-attrition)
+
+---
+
+### 🛒 Superstore Sales Analysis
+
+Performed exploratory analysis of the Superstore dataset to understand **sales, profit, product categories, and regional performance**. Used data visualization to identify trends and generate actionable insights.
+
+**Tools:** `Python` `Pandas` `Power BI`
+
+🔗 [View Project](https://github.com/ibrahimpasha9618-coder/superstore-sales-analysis)
+
+---
+
+## 🎯 Career Goal
+
+I am actively seeking opportunities as a **Data Analyst / Data Analytics professional**, where I can combine my engineering background with analytical and technical skills to solve business problems and support data-driven decision-making.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [mdibrahimpasha789@gmail.com](mailto:mdibrahimpasha789@gmail.com)
+
+🔗 **LinkedIn:** [Mohammad Ibrahim Pasha](https://www.linkedin.com/in/mohammed-ibrahim-pasha-7299b1398)
+
+💻 **GitHub:** [ibrahimpasha9618-coder](https://github.com/ibrahimpasha9618-coder)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
