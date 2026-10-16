@@ -58,7 +58,9 @@ Python, Pandas, Scikit-learn, Streamlit
 Built a regression model that predicts individual medical insurance charges from age, sex, BMI, number of children, smoking status and region.
 Engineered features such as BMI categories and encoded gender, smoker and region variables for model training.
 Deployed the model as an interactive web app on Streamlit Community Cloud, with a GitHub repository and public demo.
+
 Live demo: https://machine-learning-project-zsrlwukx48mcqkbdgfukz7.streamlit.app/
+
 GitHub: https://github.com/ibrahimpasha9618-coder/Machine-learning-project
 
 ### 📊 Sales Data Analysis & Power BI Dashboard
