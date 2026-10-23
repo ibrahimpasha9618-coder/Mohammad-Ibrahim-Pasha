@@ -53,7 +53,7 @@ My engineering background has strengthened my **problem-solving, analytical thin
 ## 📊 Featured Projects
 
 ### Medical Insurance Cost Predictor
-Python, Pandas, Scikit-learn, Streamlit
+Python, Pandas, Scikit-learn, Streamlit,machine learning
 
 Built a regression model that predicts individual medical insurance charges from age, sex, BMI, number of children, smoking status and region.
 Engineered features such as BMI categories and encoded gender, smoker and region variables for model training.
@@ -83,14 +83,14 @@ Analyzed employee data to understand **attrition, salary, performance, and workf
 
 ---
 
-### 🛒 Superstore Sales Analysis
+### 🛒 E-commerce Sales Data Analysis 
+Analyzed sales trends, product performance, customer purchasing patterns, discounts, and profitability. Performed data cleaning and exploratory data analysis (EDA) to generate actionable business insights. Developed data-driven recommendations to support sales growth and business decision-making.
 
 Performed exploratory analysis of the Superstore dataset to understand **sales, profit, product categories, and regional performance**. Used data visualization to identify trends and generate actionable insights.
 
-**Tools:** `Python` `Pandas` `Power BI`
+**Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
 
-🔗 [View Project](https://github.com/ibrahimpasha9618-coder/superstore-sales-analysis)
-
+🔗 [View Project][(https://github.com/ibrahimpasha9618-coder/ecommerce-sales-analysis?utm_source=chatgpt.com)]
 ---
 
 ## 🎯 Career Goal
