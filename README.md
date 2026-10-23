@@ -68,7 +68,7 @@ Python, Pandas, Scikit-learn, Streamlit,machine learning
 
 A Streamlit machine-learning application that analyzes student engagement, attendance, and academic performance. It uses a Random Forest model to classify performance as high, medium, or low.
 
-Live demo:(https://student-performance-023.streamlit.app/)
+Live demo: https://student-performance-023.streamlit.app/
 
 GitHub: https://github.com/ibrahimpasha9618-coder/Student-performance
 
