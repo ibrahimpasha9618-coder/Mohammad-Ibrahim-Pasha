@@ -79,7 +79,7 @@ Analyzed employee data to understand **attrition, salary, performance, and workf
 
 **Tools:** `Python` `Pandas` `Power BI`
 
-🔗 [View Project](https://github.com/ibrahimpasha9618-coder/hr-analytics-attrition)
+🔗 [View Project](https://github.com/ibrahimpasha9618-coder/Hr-analytics-employee-attrition)
 
 ---
 
