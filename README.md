@@ -108,7 +108,8 @@ Performed exploratory analysis of the Superstore dataset to understand **sales, 
 
 **Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
 
-🔗 [View Project][(https://github.com/ibrahimpasha9618-coder/ecommerce-sales-analysis?utm_source=chatgpt.com)]
+🔗 [View Project] https://github.com/ibrahimpasha9618-coder/ecommerce-sales-analysis?utm_source=chatgpt.com
+
 ---
 
 ## 🎯 Career Goal
