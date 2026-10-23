@@ -63,12 +63,23 @@ Live demo: https://machine-learning-project-zsrlwukx48mcqkbdgfukz7.streamlit.app
 
 GitHub: https://github.com/ibrahimpasha9618-coder/Machine-learning-project
 
+### Student Performance Prediction
+Python, Pandas, Scikit-learn, Streamlit,machine learning
+
+A Streamlit machine-learning application that analyzes student engagement, attendance, and academic performance. It uses a Random Forest model to classify performance as high, medium, or low.
+
+Live demo:(https://student-performance-023.streamlit.app/)
+
+GitHub: https://github.com/ibrahimpasha9618-coder/Student-performance
+
 ### Telecom Customer Churn Analysis
 
 Analyzed telecom customer churn using Python and Power BI, covering data cleaning, EDA, churn KPIs, DAX measures, and dashboard development.
 **Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
 
 [View Project](https://github.com/ibrahimpasha9618-coder/Telecom-customer-churn-analysis)
+
+
 
 ### 📊 Sales Data Analysis & Power BI Dashboard
 
