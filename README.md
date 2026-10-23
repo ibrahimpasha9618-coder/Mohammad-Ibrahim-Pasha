@@ -63,11 +63,17 @@ Live demo: https://machine-learning-project-zsrlwukx48mcqkbdgfukz7.streamlit.app
 
 GitHub: https://github.com/ibrahimpasha9618-coder/Machine-learning-project
 
+### Telecom Customer Churn Analysis
+
+Analyzed telecom customer churn using Python and Power BI, covering data cleaning, EDA, churn KPIs, DAX measures, and dashboard development.
+**Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
+[View Project](https://github.com/ibrahimpasha9618-coder/Telecom-customer-churn-analysis)
+
 ### 📊 Sales Data Analysis & Power BI Dashboard
 
 Analyzed sales data to identify sales trends, category performance, and business insights. Cleaned and transformed the dataset using Python and Pandas and created an interactive Power BI dashboard.
 
-**Tools:** `Python` `Pandas` `SQL` `Power BI`
+**Tools:** `Python` `Pandas` `SQL` `Power BI` `Numpy` `Data visualization `
 
 🔗 [View Project](https://github.com/ibrahimpasha9618-coder/sales-data-analysis-powerbi)
 
@@ -77,7 +83,7 @@ Analyzed sales data to identify sales trends, category performance, and business
 
 Analyzed employee data to understand **attrition, salary, performance, and workforce trends**. Performed data cleaning and analysis and developed an interactive Power BI dashboard to identify key factors affecting employee attrition.
 
-**Tools:** `Python` `Pandas` `Power BI`
+**Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
 
 🔗 [View Project](https://github.com/ibrahimpasha9618-coder/Hr-analytics-employee-attrition)
 
