@@ -67,6 +67,7 @@ GitHub: https://github.com/ibrahimpasha9618-coder/Machine-learning-project
 
 Analyzed telecom customer churn using Python and Power BI, covering data cleaning, EDA, churn KPIs, DAX measures, and dashboard development.
 **Tools:** `Python` `Pandas` `Power BI` `Numpy` `Data visualization `
+
 [View Project](https://github.com/ibrahimpasha9618-coder/Telecom-customer-churn-analysis)
 
 ### 📊 Sales Data Analysis & Power BI Dashboard
